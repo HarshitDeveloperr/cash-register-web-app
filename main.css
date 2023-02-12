@@ -6,7 +6,7 @@
     border: 2px solid black;
     margin: auto;
     max-width: 500px;
-    height: 70vh; 
+    height: 85vh; 
     padding: 2rem 1rem;
     text-align: center;
     background: linear-gradient(#f7f7f7,#067ff1);
@@ -61,3 +61,27 @@ td {
     border: 1px solid white;
     border-radius: 5px;
 }
+
+footer {
+    text-align: center;
+  }
+  
+  footer p {
+    font-size: large;
+    text-align: center;
+  }
+  
+  .footer-list {
+    margin: 1rem;
+  }
+  
+  a,
+  img,
+  li {
+    display: inline;
+  }
+  
+  img {
+    width: 40px;
+    padding: 0.2rem;
+  }
